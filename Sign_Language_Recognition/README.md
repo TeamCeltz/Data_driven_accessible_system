@@ -1,8 +1,6 @@
 # Hand-Gestures-Recognition-ASL
 
 
-Please consider following this project's author, [Sharoz Tanveer](https://github.com/ShahrozTanveer), and consider starring the project to show your :heart: and support.
-
 ![ASL TEST](test.jpeg)
 
 ## Project Features.
@@ -58,6 +56,8 @@ $ pyhton3 script.py
 
 - [Face detection and recognition!](https://github.com/ShahrozTanveer/Face-Detection-and-Recognition)
 - [Hand-Gestures-Recognition (1-5) using Darknet& YOLO](https://github.com/ShahrozTanveer/Hand-Gestures-Recognition)
+
+Please consider following this project's author, [Sharoz Tanveer](https://github.com/ShahrozTanveer), and consider starring the project to show your :heart: and support.
 
 ### Author
 #### This project is originally organized by **SHAROZ TANVEER** you can find him on different platforms
