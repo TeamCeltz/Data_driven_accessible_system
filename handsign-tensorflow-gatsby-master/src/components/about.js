@@ -25,7 +25,7 @@ export default function About() {
             <Modal onClose={onClose} isOpen={isOpen} isCentered>
         <ModalOverlay />
         <ModalContent>
-          <ModalHeader>American Sign Language (ASL)</ModalHeader>
+          <ModalHeader>Indian Sign Language (ISL)</ModalHeader>
           <ModalCloseButton />
           <ModalBody>
               <Text fontSize="sm">Indian Sign Language (ISL) is a visual language that serves as the predominant sign language of Deaf communities in the India.<br></br>
